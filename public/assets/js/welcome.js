@@ -1,33 +1,40 @@
-const slider = document.querySelector('.slider');
-const slides = document.querySelectorAll('.slide');
-const slideWidth = slides[0].clientWidth;
-const navbar = document.getElementById('navbar');
+//  let currentIndex = 0;
+//         const totalSlides = document.querySelectorAll('.slide').length;
 
-let slideIndex = 0;
-let firstLoopCompleted = false;
+//         function showSlide(index) {
+//             const slider = document.getElementById('slider');
+//             if (index >= 6) {
+//                 // Redirect to another page when reaching the 7th image
 
-function nextSlide() {
-    slideIndex++;
 
-    if (slideIndex >= slides.length) {
-        if (!firstLoopCompleted) {
-            // Stop the slider after the first loop
-            firstLoopCompleted = true;
-            return;
-        } else {
-            // Show the navbar after the first loop is completed
-            navbar.style.top = '0';
-        }
-    }
+//                 // window.location.href = '{{ route('home') }}'
+//                 console.log(index, totalSlides);
+//                 return;
+//             }
 
-    updateSlider();
-}
+//             currentIndex = index;
+//             const position = -index * 100 + '%';
+//             slider.style.transform = 'translateX(' + position + ')';
+//         }
 
-function updateSlider() {
-    slider.style.transform = `translateX(-${slideIndex * slideWidth}px)`;
-}
+//         function nextSlide() {
+//             if (currentIndex < totalSlides - 1) {
+//                 currentIndex++;
+//             } else {
+//                 currentIndex = 0;
+//             }
+//             showSlide(currentIndex);
+//         }
 
-// Initially hide the navbar
-navbar.style.top = '-50px';
+//         function prevSlide() {
+//             if (currentIndex > 0) {
+//                 currentIndex--;
+//             } else {
+//                 currentIndex = totalSlides - 1;
+//             }
+//             showSlide(currentIndex);
+//         }
 
-setInterval(nextSlide, 3000); // Change slide every 3 seconds
+//         // Auto slide every 3 seconds (adjust as needed)
+//         setInterval(nextSlide, 3000);
+

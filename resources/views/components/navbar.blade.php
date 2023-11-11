@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-sm " id="neubar">
     <div class="container">
-        <a class="navbar-brand" href="#"><img src="{{ asset('assets/images/Logo/logo.svg') }}"
+        <a class="navbar-brand" href="{{ route('home') }}"><img src="{{ asset('assets/images/Logo/logo.svg') }}"
                 height="60" /></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
             aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -17,8 +17,8 @@
                         Commitment</a></a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link mx-2 dropdown-toggle" href="#" id="navbarDropdownMenuLink"
-                        role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link mx-2 dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false">
                         Community
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
