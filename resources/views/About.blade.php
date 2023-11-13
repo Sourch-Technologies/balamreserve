@@ -195,10 +195,7 @@
                             <a href="">
                                 https://www.yecbelize.com
                             </a>
-
                         </div>
-
-
                     </div>
 
                 </div>

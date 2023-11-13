@@ -3,9 +3,10 @@
         <a class="navbar-brand" href="{{ route('home') }}">
             <img src="{{ asset('assets/images/Logo/logo.svg') }}" height="60" />
         </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
-            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+        <button class="navbar-toggler " style="background: white" type="button" data-bs-toggle="collapse"
+            data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon "></span>
         </button>
         <div class=" collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav ms-auto ">
@@ -22,9 +23,9 @@
                         Community
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="#">Location</a></li>
-                        <li><a class="dropdown-item" href="#">Why Belize</a></li>
-                        <li><a class="dropdown-item" href="#">Sustainibility</a></li>
+                        <li><a class="dropdown-item" href="{{ asset('location') }}">Location</a></li>
+                        <li><a class="dropdown-item" href="{{ route('whybelize') }}">Why Belize</a></li>
+                        <li><a class="dropdown-item" href="{{ route('sustainibility') }}">Sustainibility</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">

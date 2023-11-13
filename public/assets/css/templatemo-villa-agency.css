@@ -458,6 +458,9 @@ Header Style
     z-index: 1000;
     box-shadow: 4px 6px 12px rgba(0, 0, 0, 0.4);
     color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .nav-item .active {
@@ -474,18 +477,19 @@ Header Style
     color: white !important;
 }
 #neubar .nav-item {
-    margin: auto 4px;
+    margin: auto 2px;
 }
 #neubar a {
     color: #f35525 !important;
-    padding-left: 12px;
-    padding-right: 12px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 #neubar ul li a:hover {
     background: #1e1e1e;
     border-bottom: 1px solid white;
     color: white !important;
+  
 }
 
 #neubar .dropdown-menu {
@@ -1285,6 +1289,12 @@ Page Header Style
     background-image: url(../images/hotel/hotel5.jpg);
 }
 
+.belize{
+
+    background-image: url('');
+
+}
+
 .page-heading {
     height: 100vh;
     background-position: center bottom;
@@ -1633,6 +1643,24 @@ Contact Page Style
 
     color: red;
     font-size: 1rem;
+
+}
+
+@media screen and (max-width: 767px) {
+
+    .team{
+        display: block;
+     
+    }
+
+}
+
+@media screen and (max-width: 1000px) {
+
+    .team{
+        grid-template-columns: repeat(2,1fr);
+        /* border: 1px solid red; */
+    }
 
 }
 

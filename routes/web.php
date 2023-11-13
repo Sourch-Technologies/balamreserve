@@ -25,3 +25,7 @@ Route::view('/contact', 'contact')->name('contact');
 Route::view('/subdivision', 'Subdivision')->name('subdivision');
 Route::view('/about', 'About')->name('about');
 Route::view('/Villas', 'Villas')->name('villas');
+Route::view('/whybelize', 'whybelize')->name('whybelize');
+Route::view('/sustainibility', 'sustainibility')->name('sustainibility');
+Route::view('/location', 'location')->name('location');
+
