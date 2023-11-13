@@ -16,13 +16,88 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="">
+
                     <div class="section-heading">
                         <h6>| Our Team</h6>
 
                     </div>
-                   
+
+                    <div class="team">
+
+                        <div class="team_box">
+                            <h6>Bould ConsultingL</h6>
+                            <a href="">http://www.bcl.ky/</a>
+                        </div>
+                        <div class="team_box">
+                            <h6>
+                                Kevin MurnaneAlejandra Dovali’
+
+                            </h6>
+                            <a href="">
+                                http://www.bcl.ky/Coats
+                            </a>
+                            <p>
+                                Coats Investments Intl.
+                            </p>
+                        </div>
+                        <div class="team_box">
+                            <h6>atthew AsinariPrimeSquare
+                                Bould ConsultingLTD
+                                Consulting Solutions
+                                https://www.cbre.com
+                                Dr. Stefan Harzen
+                                Biologist
+                                linkedin.com/in/drstefanharzen
+                                EDSA
+                                Land Planning
+                                https://www.edsaplan.com
+                                Branding
+                                http://www.habitat2art.com</h6>
+                        </div>
+                        <div class="team_box">
+                            <h6></h6>
+                        </div>
+                        <div class="team_box">
+                            <h6></h6>
+                        </div>
+                        <div class="team_box">
+                            <h6></h6>
+                        </div>
+                        <div class="team_box">
+                            <h6></h6>
+                        </div>
+                        <div class="team_box">
+                            <h6></h6>
+                        </div>
+                        <div class="team_box">
+                            <h6></h6>
+                        </div>
+                        <div class="team_box">
+                            <h6></h6>
+                        </div>
+                        <div class="team_box">
+                            <h6></h6>
+                        </div>
+                        <div class="team_box">
+                            <h6></h6>
+                        </div>
+                        <div class="team_box">
+                            <h6></h6>
+                        </div>
+                        <div class="team_box">
+                            <h6></h6>
+                        </div>
+                        <div class="team_box">
+                            <h6></h6>
+                        </div>
+                        <div class="team_box">
+                            <h6></h6>
+                        </div>
+
+                    </div>
+
                 </div>
-              
+
                 <div class="col-lg-12">
                     <div id="map">
                         <iframe

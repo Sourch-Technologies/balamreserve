@@ -11,11 +11,8 @@
     <div class="single-property section">
         <div class="container-fluid">
             <div class="row">
-                {{-- <div class="col-lg-8"> --}}
-
+            
                 <img src="{{ asset('assets/images/image11.png') }}" class="col-lg-7" alt="">
-
-                {{-- </div> --}}
 
                 <div class="col-lg-5">
                     <div class="info-table">
@@ -67,6 +64,7 @@
                         </ul>
                     </div>
                 </div>
+
             </div>
         </div>
     </div>

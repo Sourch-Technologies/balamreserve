@@ -38,3 +38,19 @@
 //         // Auto slide every 3 seconds (adjust as needed)
 //         setInterval(nextSlide, 3000);
 
+
+
+const nav = document.querySelector('#neubar');
+let lastScrollPosition = window.scrollY;
+
+window.addEventListener('scroll', () => {
+    const currentScrollPosition = window.scrollY;
+
+    if (currentScrollPosition > lastScrollPosition) {
+        nav.classList.add('nav-hidden');
+    } else {
+        nav.classList.remove('nav-hidden');
+    }
+
+    lastScrollPosition = currentScrollPosition;
+});
