@@ -68,22 +68,26 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 mb-50">
+                {{-- <div class=" mb-50"> --}}
                     {{-- <div class="footer-widget"> --}}
-                        <img src="{{ asset('assets/images/Logo/varena_new.png') }}" alt="">
+                        <img class="col-xl-4 col-lg-4 col-md-6 img-fluid" style="height: 150px" src="{{ asset('assets/images/Logo/varena_new.png') }}" alt="">
                     {{-- </div> --}}
-                </div>
+                {{-- </div> --}}
             </div>
         </div>
     </div>
     <div class="copyright-area">
         <div class="container">
             <div class="row">
-                {{-- <div class="col-12"> --}}
-                    <div class="copyright-text text-center">
+                <div class="col-lg-9">
+                    <div class="copyright-text">
                         <p>Copyright &copy; Balam Reserve, All Right Reserved</p>
                     </div>
-                {{-- </div> --}}
+                </div>
+                <div class="col d-flex justify-content-end col-lg-3"  >
+
+                    <img class=" text-right" style="width: 100px;" src="{{ asset('assets\images\Logo\sourch.png') }}" alt="">
+                </div>
             </div>
         </div>
     </div>
