@@ -32,3 +32,4 @@ Route::view('/sustainibility', 'sustainibility')->name('sustainibility');
 Route::view('/location', 'location')->name('location');
 Route::post('/contact-us', [Controller::class, 'index'])->name('contact-us');
 
+
