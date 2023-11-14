@@ -13,12 +13,18 @@
         <div class="container-fluid">
             <div class="row">
 
-                <div class="col-md-4">
-                    <img class="img-fluid p-2" src="{{ asset('assets/images/hotel/hotel3.jpg') }}" alt="">
+                <div class="section">
+                    <h3 class="section-heading">
+                        3D Printed Villas
+                    </h3>
                 </div>
 
                 <div class="col-md-4">
-                    <img class="img-fluid p-2" src="{{ asset('assets/images/hotel/hotel4.jpg') }}" alt="">
+                    <img class="img-fluid p-2" src="{{ asset('assets/images/hotel/v1.jpg') }}" alt="">
+                </div>
+
+                <div class="col-md-4">
+                    <img class="img-fluid p-2" src="{{ asset('assets/images/hotel/v2.jpg') }}" alt="">
                 </div>
 
                 <div class="col-md-4">
@@ -44,8 +50,5 @@
             </div>
         </div>
     </div>
-
-    </div>
-
 
 </x-layout>
