@@ -14,7 +14,7 @@
                     <a class="nav-link mx-2 active" aria-current="page" href="{{ route('home') }}">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link mx-2 " aria-current="page" href="{{ route('home') }}">Net-zero
+                    <a class="nav-link mx-2 " aria-current="page" href="{{ route('netzero') }}">Net-zero
                         Commitment</a></a>
                 </li>
                 <li class="nav-item dropdown">

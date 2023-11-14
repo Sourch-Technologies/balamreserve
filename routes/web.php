@@ -22,6 +22,7 @@ Route::get('/main', function () {
 })->name('home');
 
 Route::view('/contact', 'contact')->name('contact');
+Route::view('/netzero', 'netzero')->name('netzero');
 Route::view('/subdivision', 'Subdivision')->name('subdivision');
 Route::view('/about', 'About')->name('about');
 Route::view('/Villas', 'Villas')->name('villas');

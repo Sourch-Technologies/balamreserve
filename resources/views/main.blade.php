@@ -133,10 +133,10 @@
         <div class="section best-deal">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-6">
                         <div class="section-heading">
 
-                            <h2>Project Roadmap</h2>
+                            <h2>Master Plan Project</h2>
                         </div>
                     </div>
                     <div class="col-lg-12">
@@ -145,11 +145,6 @@
                                 <div class="nav-wrapper">
                                     <ul class="nav nav-tabs" role="tablist">
                                         <li class="nav-item" role="presentation">
-                                            <button class="nav-link active" id="appartment-tab"
-                                                data-bs-toggle="tab" data-bs-target="#appartment" type="button"
-                                                role="tab" aria-controls="appartment" aria-selected="true">
-                                                Predevelopment Phase
-                                            </button>
                                         </li>
 
                                     </ul>
@@ -175,7 +170,7 @@
                                                     TemplateMo One Page Layouts, etc.
                                                 </p>
                                                 <div class="icon-button">
-                                                    <a href="property-details.html"><i class="fa fa-calendar"></i>
+                                                    <a href="whybleize.html"><i class="fa fa-calendar"></i>
                                                         Learn More</a>
                                                 </div>
                                             </div>
