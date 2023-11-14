@@ -13,7 +13,8 @@ class Controller extends BaseController
 {
     use AuthorizesRequests, ValidatesRequests;
 
-    public function index(Request $request  ){
+    public function index(Request $request)
+    {
 
 
 
@@ -27,6 +28,7 @@ class Controller extends BaseController
 
         Mail::to('info@thebalamreserve.com')->send(new ContactUs($dataValidated));
 
+        return redirect()->back();
 
     }
 }
