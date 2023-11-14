@@ -1,7 +1,7 @@
 <x-layout>
 
 
-    <div class="page-heading header-text about">
+    <div class="page-heading header-text sub">
         <div class="container">
             {{-- <div class="row">
                 <div class="col-lg-12">
@@ -200,7 +200,7 @@
 
                 </div>
 
-                
+
                 </div>
             </div>
         </div>

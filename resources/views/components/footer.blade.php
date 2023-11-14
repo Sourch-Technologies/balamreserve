@@ -7,7 +7,10 @@
                         <i class="fas fa-map-marker-alt"></i>
                         <div class="cta-text">
                             <h4>Find us</h4>
-                            <span>1010 Avenue, sw 54321, chandigarh</span>
+                            <span>Balam Investments, LLC.
+                                <br> 410 SE 16th Court #214
+                                <br>
+                                Fort Lauderdale, FL 33316</span>
                         </div>
                     </div>
                 </div>
@@ -16,7 +19,7 @@
                         <i class="fas fa-phone"></i>
                         <div class="cta-text">
                             <h4>Call us</h4>
-                            <span>9876543210 0</span>
+                            <span>+1 (305) 457 9962</span>
                         </div>
                     </div>
                 </div>
@@ -25,7 +28,7 @@
                         <i class="far fa-envelope-open"></i>
                         <div class="cta-text">
                             <h4>Mail us</h4>
-                            <span>mail@info.com</span>
+                            <span>info@thebalamreserve.com</span>
                         </div>
                     </div>
                 </div>
@@ -38,11 +41,11 @@
                         <div class="footer-logo">
                             <a href="index.html"><img src="{{ asset('assets/images/Logo/logo.svg') }}" class="img-fluid" alt="logo"></a>
                         </div>
-                        
+
                         <div class="footer-social-icon">
                             <span>Follow us</span>
-                            <a href="#"><i class="fab fa-facebook-f facebook-bg"></i></a>
-                            <a href="#"><i class="fab fa-twitter twitter-bg"></i></a>
+                            <a href="https://www.facebook.com/thebalamescape/"><i class="fab fa-facebook-f facebook-bg"></i></a>
+                            <a href="https://www.linkedin.com/in/hart-porsch-24799630/"><i class="fab fa-linkedin linkedin-bg"></i></a>
                             <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
                         </div>
                     </div>
