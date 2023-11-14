@@ -1,52 +1,48 @@
 <x-layout>
 
-    <div class="page-heading header-text netzero">
-        <div class="container">
-            <div class="row">
-            <div class="col-lg-12">
-                    <div class="info-table">
-                        <ul>
-                            <h5>
-                                <strong>
+    <div class="row">
+        <div class="col-lg-12">
+                <div class="info-table text-center pt-5" style="border: 1px solid gray; margin-top:10px; padding: 100px 10px; border-radius: 5px">
+                    <ul>
+                        <h5>
+                            <strong>
 
-                                The Sustainable Net-Zero Community for the Next Century
+                            The Sustainable Net-Zero Community for the Next Century
+                            </strong>
+                        </h5>
+                        <h6>Project Overview</h6>
+                        <li>
+                            <p>The Balam Reserve, a single purpose entity, Cayman Islands, 
+                                is seeking a general-limited partnership to complete its net-zero sustainable Master Plan
+                                community in Belize.</p>
+                        </li>
+                        <li>
+                            <p>Initial investment 10 millions USD. The general partner will be entitled to use the
+                                 9,500 acres property value as is at $46 millions as collateral for Balam finan</p>
+                        </li>
+                        <h6>3,500 single and multi-family dwelling units, 24 villas, and an environmental
+                             technologies research center with a school and hospital, three luxurious hotels (up to 1,500 rooms total) spa and healing centers offering telemedicine,
+                              green technology center, marina, airport, golf course, village center 
+                              and water/art park.(Approved by ECP)
+                            </h6>
+                        <li>
+                            <p>Situated in an idyllic tropical location: oceanfront 
+                                and forest land in Belize, Central America.</p>
+                        </li>
+                        <li>
+                            <p>Equity and land assets with $120M Green Bonds debt will complete 24 villas in private island
+                                 and vertical construction (80 rooms hotel, 80 villas, 20 condominiums, infrastructure, marketing, etc.)
+                                <strong><br>
+                                Estimated IRR 20% + 
                                 </strong>
-                            </h5>
-                            <h6>Project Overview</h6>
-                            <li>
-                                <p>The Balam Reserve, a single purpose entity, Cayman Islands, 
-                                    is seeking a general-limited partnership to complete its net-zero sustainable Master Plan
-                                    community in Belize.</p>
-                            </li>
-                            <li>
-                                <p>Initial investment 10 millions USD. The general partner will be entitled to use the
-                                     9,500 acres property value as is at $46 millions as collateral for Balam finan</p>
-                            </li>
-                            <h6>3,500 single and multi-family dwelling units, 24 villas, and an environmental
-                                 technologies research center with a school and hospital, three luxurious hotels (up to 1,500 rooms total) spa and healing centers offering telemedicine,
-                                  green technology center, marina, airport, golf course, village center 
-                                  and water/art park.(Approved by ECP)
-                                </h6>
-                            <li>
-                                <p>Situated in an idyllic tropical location: oceanfront 
-                                    and forest land in Belize, Central America.</p>
-                            </li>
-                            <li>
-                                <p>Equity and land assets with $120M Green Bonds debt will complete 24 villas in private island
-                                     and vertical construction (80 rooms hotel, 80 villas, 20 condominiums, infrastructure, marketing, etc.)
-                                    <strong><br>
-                                    Estimated IRR 20% + 
-                                    </strong>
-                                    
-                                </p>
-                            </li>
-                            
-                        </ul>
-                    </div>
+                                
+                            </p>
+                        </li>
+                        
+                    </ul>
                 </div>
             </div>
         </div>
-    </div>
 
     <div class="single-property section">
         <div class="container-fluid">
@@ -214,9 +210,7 @@
                                                     • Marina #2
                                                 </li>
                                             </ul>
-                                            <div class="icon-button">
-                                                <a href="#"><i class="fa fa-calendar"></i> Schedule a visit</a>
-                                            </div>
+                                           
 
                                         </div>
                                     </div>
@@ -239,9 +233,7 @@
                                             </ul>
 
 
-                                            <div class="icon-button">
-                                                <a href="#"><i class="fa fa-calendar"></i> Schedule a visit</a>
-                                            </div>
+                                           
 
                                         </div>
                                     </div>
@@ -254,9 +246,7 @@
                                                     • ArtEco-Tech Village:645acreswith200Villasand200Condosforsale
                                                 </li>
                                             </ul>
-                                            <div class="icon-button">
-                                                <a href="#"><i class="fa fa-calendar"></i> Schedule a visit</a>
-                                            </div>
+                                           
 
                                         </div>
                                     </div>
@@ -352,52 +342,52 @@
 
                                 <ul>
                                     <li>
-                                        <span>A</span>
+                                        <span style="color: orange">A</span>
                                         Island Village (8 Acres)
                                     </li>
                                     <li>
-                                        <span>A1</span>
+                                        <span style="color: orange">A1</span>
                                         Marina Village (15 Acres)
                                     </li>
                                     <li>
-                                        <span>A2</span>
+                                        <span style="color: orange">A2</span>
                                         WaterFront Residential (30 Acres)
                                     </li>
                                     <li>
-                                        <span>A3</span>
+                                        <span style="color: orange">A3</span>
                                         WaterPark & Lagoon Villas (15 Acres)
                                     </li>
                                     <li>
-                                        <span>B1</span>
+                                        <span style="color: orange">B1</span>
                                         Resort Site (60 Acres)
                                     </li>
                                     <li>
-                                        <span>B2</span>
+                                        <span style="color: orange">B2</span>
                                         Resort Site (300 Acres)
                                     </li>
                                     <li>
-                                        <span>B3</span>
+                                        <span style="color: orange">B3</span>
                                         Waterfromt Residential (30 Acres)
                                        
                                     </li>
                                     <li>
-                                        <span>C</span>
+                                        <span style="color: orange">C</span>
                                         Waterfromt Residential (33 Acres)
                                     </li>
                                     <li>
-                                        <span>C1</span>
+                                        <span style="color: orange">C1</span>
                                         Resort Site (32 Acres)
                                     </li>
                                     <li>
-                                        <span>D</span>
+                                        <span style="color: orange">D</span>
                                         Approved 1,000 Acre subdivision 400 Residential lots / Commercial & Multifamily 
                                     </li>
                                     <li>
-                                        <span>D1</span>
+                                        <span style="color: orange">D1</span>
                                         Resort Site (32 Acres)
                                     </li>
                                     <li>
-                                        <span>L/F</span>
+                                        <span style="color: orange">L/F</span>
                                         Lagoon Mixed Use Development (645 Acres): Golf Course
                                     </li>
                                 </ul>
