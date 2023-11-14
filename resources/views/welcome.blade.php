@@ -17,6 +17,8 @@
 
     <link rel="stylesheet" href="{{ asset('assets/css/welcome.css') }}">
 
+    <link rel="shortcut icon" href="{{ asset('assets/images/Logo/logo_main.ico') }}" type="image/x-icon">
+
 </head>
 
 <body>
