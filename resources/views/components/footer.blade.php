@@ -53,33 +53,22 @@
                             <h3>Useful Links</h3>
                         </div>
                         <ul>
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">Netzero-commitment</a></li>
-                            <li><a href="#">Location</a></li>
-                            <li><a href="#">Why Belize</a></li>
-                            <li><a href="#">Sustainibility</a></li>
-                            <li><a href="#">Villas</a></li>
-                            <li><a href="#">Subdivision</a></li>
-                            <li><a href="#">About</a></li>
-                            <li><a href="#">Contact us</a></li>
+                            <li><a href="{{ route('home') }}">Home</a></li>
+                            <li><a href="{{ route('netzero') }}">Netzero-commitment</a></li>
+                            <li><a href="{{ asset('location') }}">Location</a></li>
+                            <li><a href="{{ route('whybelize') }}">Why Belize</a></li>
+                            <li><a href="{{ route('sustainibility') }}">Sustainibility</a></li>
+                            <li><a href="{{ route('villas') }}">Villas</a></li>
+                            <li><a href="{{ route('subdivision') }}">Subdivision</a></li>
+                            <li><a href="{{ route('about') }}">About</a></li>
+                            <li><a href="{{ route('contact') }} ">Contact us</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 mb-50">
-                    <div class="footer-widget">
-                        <div class="footer-widget-heading">
-                            <h3>Subscribe</h3>
-                        </div>
-                        <div class="footer-text mb-25">
-                            <p>Don’t miss to subscribe to our new feeds, kindly fill the form below.</p>
-                        </div>
-                        <div class="subscribe-form">
-                            <form action="#">
-                                <input type="text" placeholder="Email Address">
-                                <button><i class="fab fa-telegram-plane"></i></button>
-                            </form>
-                        </div>
-                    </div>
+                    {{-- <div class="footer-widget"> --}}
+                        <img src="{{ asset('assets/images/Logo/varena_new.png') }}" alt="">
+                    {{-- </div> --}}
                 </div>
             </div>
         </div>
