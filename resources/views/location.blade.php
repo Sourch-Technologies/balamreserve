@@ -1,7 +1,5 @@
-@extends('components.Community')
+<x-community>
 
-@section('content')
-    <h1>
-        location
-    </h1>
-@endsection
+   <h1>location</h1>
+
+</x-community>

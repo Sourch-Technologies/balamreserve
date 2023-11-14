@@ -104,27 +104,28 @@
                     </p>
                 </div>
                 <div class="col-lg-6">
-                    <form id="contact-form" action="" method="post">
+                    <form id="contact-form" action="{{ route('contact-us') }}" method="POST">
+                        @csrf
                         <div class="row">
                             <div class="col-lg-12">
                                 <fieldset>
                                     <label for="name">Full Name</label>
                                     <input type="name" name="name" id="name" placeholder="Your Name..."
-                                        autocomplete="on" required>
+                                       >
                                 </fieldset>
                             </div>
                             <div class="col-lg-12">
                                 <fieldset>
                                     <label for="email">Email Address</label>
                                     <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*"
-                                        placeholder="Your E-mail..." required="">
+                                        placeholder="Your E-mail..." >
                                 </fieldset>
                             </div>
                             <div class="col-lg-12">
                                 <fieldset>
                                     <label for="subject">Subject</label>
                                     <input type="subject" name="subject" id="subject" placeholder="Subject..."
-                                        autocomplete="on">
+                                       >
                                 </fieldset>
                             </div>
                             <div class="col-lg-12">

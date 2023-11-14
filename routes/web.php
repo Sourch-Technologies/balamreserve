@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -29,4 +30,5 @@ Route::view('/Villas', 'Villas')->name('villas');
 Route::view('/whybelize', 'whybelize')->name('whybelize');
 Route::view('/sustainibility', 'sustainibility')->name('sustainibility');
 Route::view('/location', 'location')->name('location');
+Route::post('/contact-us', [Controller::class, 'index'])->name('contact-us');
 
