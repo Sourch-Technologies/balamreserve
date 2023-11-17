@@ -115,7 +115,7 @@
                                     does not hold it out as impartial in relation to such activities.
                                     Private and Confidential
 
-                                </p>
+                                {{-- </p> --}}
                             </li>
 
                         </ul>
@@ -134,20 +134,21 @@
 
 
                         <div class="row col-12">
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px "  href="#">
+                                            <img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>Habitare.</h6>
-                                                <p class="text-muted text-sm">
+                                                {{-- <p class="text-muted text-sm"> --}}
                                                     <i class="fa fa-mobile fa-lg"></i>Real Estate Developer
-                                                </p>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline">www.habitare.com.gt</a>
                                             </div>
@@ -158,20 +159,20 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>Martha Dimitratou</h6>
-                                                <p class="text-muted text-sm">
+                                                {{-- <p class="text-muted text-sm"> --}}
                                                     <i class="fa fa-mobile fa-lg"></i>RDigital Director
-                                                </p>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline"></a>
                                             </div>
@@ -182,20 +183,20 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>PWC Luxembourg</h6>
-                                                <p class="text-muted text-sm">
+                                                {{-- <p class="text-muted text-sm"> --}}
                                                     <i class="fa fa-mobile fa-lg"></i>
-                                                </p>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline"></a>
                                             </div>
@@ -206,20 +207,20 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>Victor Barrett.</h6>
-                                                <p class="text-muted text-sm">
+                                                {{-- <p class="text-muted text-sm"> --}}
                                                     <i class="fa fa-mobile fa-lg"></i>Consulting & Service Organization
-                                                </p>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline"></a>
                                             </div>
@@ -230,20 +231,20 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>Bould Consulting Ltd.</h6>
-                                                <p class="text-muted text-sm">
+                                                {{-- <p class="text-muted text-sm"> --}}
                                                     <i class="fa fa-mobile fa-lg"></i>Real Estate Developer
-                                                </p>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline">www.bcly.ky</a>
                                             </div>
@@ -254,20 +255,21 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px " 
+                                         href="#"><img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>CBRE Consulting.</h6>
-                                                <p class="text-muted text-sm">
+                                                {{-- <p class="text-muted text-sm"> --}}
                                                     <i class="fa fa-mobile fa-lg"></i>Consulting Solutions
-                                                </p>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline">www.cbre.com</a>
                                             </div>
@@ -278,20 +280,20 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>EDSA.</h6>
-                                                <p class="text-muted text-sm">
+                                                {{-- <p class="text-muted text-sm"> --}}
                                                     <i class="fa fa-mobile fa-lg"></i>Land Planing
-                                                </p>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline">www.edsaplan.com</a>
                                             </div>
@@ -302,20 +304,20 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>HVS.</h6>
-                                                <p class="text-muted text-sm">
+                                                {{-- <p class="text-muted text-sm"> --}}
                                                     <i class="fa fa-mobile fa-lg"></i>RConsulting & Service Organization
-                                                </p>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline">www.hvs.com</a>
                                             </div>
@@ -326,20 +328,20 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>Prime Square.</h6>
-                                                <p class="text-muted text-sm">
-                                                    <i class="fa fa-mobile fa-lg"></i>R
-                                                </p>
+                                                {{-- <p class="text-muted text-sm"> --}}
+                                                    <i class="fa fa-mobile fa-lg"></i>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline">www.minettprimesquare.com</a>
                                             </div>
@@ -350,20 +352,20 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>Swaback Partners.</h6>
-                                                <p class="text-muted text-sm">
+                                                {{-- <p class="text-muted text-sm"> --}}
                                                     <i class="fa fa-mobile fa-lg"></i>Design and Landscape architecture
-                                                </p>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline">www.swaback.com</a>
                                             </div>
@@ -374,20 +376,20 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>Dr. Stefan Harzen.</h6>
-                                                <p class="text-muted text-sm">
+                                                {{-- <p class="text-muted text-sm"> --}}
                                                     <i class="fa fa-mobile fa-lg"></i>Biologist
-                                                </p>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline"></a>
                                             </div>
@@ -398,20 +400,20 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>Elizabeth Ayafor.</h6>
-                                                <p class="text-muted text-sm">
+                                                {{-- <p class="text-muted text-sm"> --}}
                                                     <i class="fa fa-mobile fa-lg"></i>Marketing Director
-                                                </p>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline"></a>
                                             </div>
@@ -422,20 +424,20 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>Elizabeth Ayafor.</h6>
-                                                <p class="text-muted text-sm">
+                                                {{-- <p class="text-muted text-sm"> --}}
                                                     <i class="fa fa-mobile fa-lg"></i>Marketing Director
-                                                </p>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline"></a>
                                             </div>
@@ -446,20 +448,20 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>John Barnes</h6>
-                                                <p class="text-muted text-sm">
+                                                {{-- <p class="text-muted text-sm"> --}}
                                                     <i class="fa fa-mobile fa-lg"></i>Board Of Directors
-                                                </p>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline"></a>
                                             </div>
@@ -470,20 +472,20 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>Professor Will Holder</h6>
-                                                <p class="text-muted text-sm">
+                                                {{-- <p class="text-muted text-sm"> --}}
                                                     <i class="fa fa-mobile fa-lg"></i>Board Of Directors
-                                                </p>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline"></a>
                                             </div>
@@ -494,20 +496,20 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>Government Of Belize</h6>
-                                                <p class="text-muted text-sm">
+                                                {{-- <p class="text-muted text-sm"> --}}
                                                     <i class="fa fa-mobile fa-lg"></i>Favorable development incentives
-                                                </p>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline"></a>
                                             </div>
@@ -518,20 +520,20 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 col-lg-4">
+                            <div class="panel col-md-3 ">
                                 <div class="panel-body">
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" href="#"><img class="img-circle img-sm"
+                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
                                                 alt="Profile Picture"
-                                                src="https://bootdey.com/img/Content/avatar/avatar1.png"></a>
+                                                src="{{ asset('assets/images/leave.png') }}"></a>
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>Young's Engineering Consultancy</h6>
-                                                <p class="text-muted text-sm">
+                                                {{-- <p class="text-muted text-sm"> --}}
                                                     <i class="fa fa-mobile fa-lg"></i>
-                                                </p>
+                                                {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline">www.yecbelize.com</a>
                                             </div>
@@ -553,9 +555,5 @@
             </div>
         </div>
     </div>
-
-
-
-
 
 </x-layout>
