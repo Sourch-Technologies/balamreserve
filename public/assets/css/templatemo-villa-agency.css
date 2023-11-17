@@ -455,7 +455,7 @@ Header Style
 #neubar {
     position: sticky;
     top: 0;
-    background: #1e1e1e;
+    background: rgb(40,61,70) ;
     z-index: 1000;
     box-shadow: 4px 6px 12px rgba(0, 0, 0, 0.4);
     color: white;
@@ -481,20 +481,21 @@ Header Style
     margin: auto 2px;
 }
 #neubar a {
-    color: #f35525 !important;
-    padding-left: 5px;
-    padding-right: 5px;
+    color: wheat !important;
+    padding: 5px;
+    font-size: small;
 }
 
 #neubar ul li a:hover {
+
     background: #1e1e1e;
-    border-bottom: 1px solid white;
+    transition: all .2s linear;
     color: white !important;
 
 }
 
 #neubar .dropdown-menu {
-    background: #1e1e1e;
+    background: rgb(40,61,70) ;
 }
 a.navbar-brand {
     color: white;

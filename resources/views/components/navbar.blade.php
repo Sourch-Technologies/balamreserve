@@ -1,7 +1,7 @@
-<nav class="navbar navbar-expand-sm " id="neubar">
-    <div class="container">
+<nav class="navbar navbar-expand-md " id="neubar">
+    <div class="container-fluid">
         <a class="navbar-brand" href="{{ route('home') }}">
-            <img src="{{ asset('assets/images/Logo/logo.svg') }}" height="60" />
+            <img src="{{ asset('assets/images/Logo/logo.svg') }}" height="40px" />
         </a>
         <button class="navbar-toggler " style="background: white" type="button" data-bs-toggle="collapse"
             data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
