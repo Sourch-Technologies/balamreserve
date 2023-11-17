@@ -123,8 +123,8 @@
                 </div>
 
 
-                <div class=" bootdey mx-auto">
-                    <div class="col-md-12 bootstrap snippets container border p-2 rounded">
+                <div class=" bootdey mx-auto ">
+                    <div class="col-md-12 bootstrap snippets container-fluid border p-2 rounded">
 
                         <div class="col-12">
                             <h2>
@@ -171,7 +171,7 @@
                                             <div class="mar-btm">
                                                 <h6>Martha Dimitratou</h6>
                                                 {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>RDigital Director
+                                                    <i class="fa fa-mobile fa-lg"></i>Digital Director
                                                 {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline"></a>
@@ -316,7 +316,7 @@
                                             <div class="mar-btm">
                                                 <h6>HVS.</h6>
                                                 {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>RConsulting & Service Organization
+                                                    <i class="fa fa-mobile fa-lg"></i>Consulting & Service Organization
                                                 {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline">www.hvs.com</a>
@@ -508,7 +508,7 @@
                                             <div class="mar-btm">
                                                 <h6>Government Of Belize</h6>
                                                 {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>Favorable development incentives
+                                                    <i class="fa fa-mobile fa-lg" style="font-size: 10px"></i >Favorable development incentives
                                                 {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline"></a>
