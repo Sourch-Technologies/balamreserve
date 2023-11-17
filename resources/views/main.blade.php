@@ -22,9 +22,7 @@
             <div class="row">
 
                 <div class="col-lg-5">
-                    <div class="section-heading">
-                        <h6>| CLIMATE CHANGE</h6>
-                    </div>
+
                     <div class="accordion" id="accordionExample">
                         <div class="accordion-item">
 
@@ -66,15 +64,16 @@
                     </div>
                 </div>
                 <div class="col-lg-7">
-                    <div class="info-table">
+                    <div class="row info-table">
 
-                        <img src="{{ asset('assets/images/fire.png') }}" alt="" />
+                        <div class="col-12 gap-2" style="">
+                            {{-- <img src="{{ asset('assets/images/fire.png') }}" style="width:100%; height:300px"  alt="" /> --}}
+                        </div>
+                        <div class="col-12 row">
+                            <img src="{{ asset('assets/images/flood.png') }}" class="col-lg-6" alt="" />
 
-
-                        <img src="{{ asset('assets/images/flood.png') }}" alt="" />
-
-
-                        <img src="{{ asset('assets/images/bear.png') }}" alt="" />
+                            <img src="{{ asset('assets/images/bear.png') }}" class="col-lg-6" alt="" />
+                        </div>
 
 
                     </div>
@@ -87,14 +86,22 @@
         <div class="container-fluid">
             <div class="row">
 
+                <div class="col-12">
+                    
+
+                        <img src="{{ asset('assets/images/PIc2.jpeg') }}" class="img" style="width: 100%; height: 600px;"    alt="" />
+                        <p>Inauguration of planting 1.5 Millions trees to maintain net zero </p>
+
+                  
+                </div>
+
                 <div class="col-lg-7">
                     <div class="info-table">
 
-                        <img src="{{ asset('assets/images/porch.png') }}" style="width: 300px; height: 400px;"
-                            alt="" />
+                        
 
 
-                        <img src="{{ asset('assets/images/tortuse.png') }} " style="width: 300px; height: 400px;"
+                        <img src="{{ asset('assets/images/tortuse.png') }} " style="width: 100%;"
                             alt="" />
 
 
@@ -103,7 +110,7 @@
 
                 <div class="col-lg-5">
                     <div class="section-heading">
-                        <h6>| Highlights of our technical / environmental solutions</h6>
+                        {{-- <h6>| Highlights of our technical / environmental solutions</h6> --}}
                     </div>
                     <div class="accordion" id="accordionExample">
                         <div class="accordion-item" style="padding: 10px; ">
@@ -154,10 +161,10 @@
                                         aria-labelledby="appartment-tab">
                                         <div class="row">
                                             {{-- <div class="col-lg-9"> --}}
-                                            <img class="col-lg-9"
-                                                src="{{ asset('assets/images/balmRoadmap.png') }}" alt="">
+                                            <img class="col-lg-12" src="{{ asset('assets/images/MasterPicPlan.jpeg') }}"
+                                                alt="">
                                             {{-- </div> --}}
-
+                                            {{-- 
                                             <div class="col-lg-3">
                                                 <h4>Extra Info About Property</h4>
                                                 <p>
@@ -173,7 +180,7 @@
                                                     <a href="whybleize.html"><i class="fa fa-calendar"></i>
                                                         Learn More</a>
                                                 </div>
-                                            </div>
+                                            </div> --}}
                                         </div>
                                     </div>
 

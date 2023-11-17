@@ -14,8 +14,8 @@
                     <a class="nav-link mx-2 active" aria-current="page" href="{{ route('home') }}">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link mx-2 " aria-current="page" href="{{ route('netzero') }}">Net-zero
-                        Commitment</a></a>
+                    <a class="nav-link mx-2 " aria-current="page" href="{{ route('netzero') }}">Net-zero</a>
+
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link mx-2 dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
@@ -39,9 +39,13 @@
                     <a class="nav-link mx-2" href="{{ route('about') }}">About</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link mx-2" href="">News</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link mx-2" href="{{ route('contact') }} ">Contact Us</a>
 
                 </li>
+
             </ul>
         </div>
     </div>

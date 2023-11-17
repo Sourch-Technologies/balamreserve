@@ -2,52 +2,63 @@
 
     <div class="row">
         <div class="col-lg-12">
-                <div class="info-table text-center pt-5" style="border: 1px solid gray; margin-top:10px; padding: 100px 10px; border-radius: 5px">
-                    <ul>
-                        <h5>
-                            <strong>
+            <div class="info-table text-center pt-5"
+                style="border: 1px solid gray; margin-top:10px; padding: 100px 10px; border-radius: 5px">
+                <ul>
+                    <h5>
+                        <strong>
 
                             The Sustainable Net-Zero Community for the Next Century
+                        </strong>
+                    </h5>
+                    <h6>Project Overview</h6>
+                    <li>
+                        <p></p>
+                    </li>
+                    <li>
+                        <p></p>
+                    </li>
+                    <h6>3,500 single and multi-family dwelling units, 24 villas, and an environmental
+                        technologies research center with a school and hospital, three luxurious hotels (up to 1,500
+                        rooms total) spa and healing centers offering telemedicine,
+                        green technology center, marina, airport, golf course, village center
+                        and water/art park.(Approved by EIA + ECP)
+                    </h6>
+                    <li>
+                        <p>Situated in an idyllic tropical location: oceanfront
+                            and forest land in Belize, Central America.</p>
+                    </li>
+                    <li>
+                        <p>Equity and land assets with $120M Green Bonds debt will complete 24 villas in private island
+                            and vertical construction (80 rooms hotel, 80 villas, 20 condominiums, infrastructure,
+                            marketing, etc.)
+
+                            <br>
+                            The Balam Reserve, a single purpose entity, Cayman Islands,
+                            is seeking a general-limited partnership to complete its net-zero sustainable Master Plan
+                            community in Belize.
+                            <strong>
+                                <br>
+                                Estimated IRR 20% +
                             </strong>
-                        </h5>
-                        <h6>Project Overview</h6>
-                        <li>
-                            <p>The Balam Reserve, a single purpose entity, Cayman Islands, 
-                                is seeking a general-limited partnership to complete its net-zero sustainable Master Plan
-                                community in Belize.</p>
-                        </li>
-                        <li>
-                            <p>Initial investment 10 millions USD. The general partner will be entitled to use the
-                                 9,500 acres property value as is at $46 millions as collateral for Balam finan</p>
-                        </li>
-                        <h6>3,500 single and multi-family dwelling units, 24 villas, and an environmental
-                             technologies research center with a school and hospital, three luxurious hotels (up to 1,500 rooms total) spa and healing centers offering telemedicine,
-                              green technology center, marina, airport, golf course, village center 
-                              and water/art park.(Approved by ECP)
-                            </h6>
-                        <li>
-                            <p>Situated in an idyllic tropical location: oceanfront 
-                                and forest land in Belize, Central America.</p>
-                        </li>
-                        <li>
-                            <p>Equity and land assets with $120M Green Bonds debt will complete 24 villas in private island
-                                 and vertical construction (80 rooms hotel, 80 villas, 20 condominiums, infrastructure, marketing, etc.)
-                                <strong><br>
-                                Estimated IRR 20% + 
-                                </strong>
-                                
-                            </p>
-                        </li>
-                        
-                    </ul>
-                </div>
+                            <br>
+
+                            Initial investment 10 millions USD. The general partner will be entitled to use the
+                            9,500 acres property value as is at $46 millions as collateral for Balam financing.
+
+
+                        </p>
+                    </li>
+
+                </ul>
             </div>
         </div>
+    </div>
 
     <div class="single-property section">
         <div class="container-fluid">
             <div class="row">
-            
+
                 <img src="{{ asset('assets/images/image18.png') }}" class="col-lg-7" alt="">
 
                 <div class="col-lg-5">
@@ -56,14 +67,14 @@
                             <h5>
                                 <strong>
 
-                                ABOUT THE PROJECT
+                                    ABOUT THE PROJECT
                                 </strong>
                             </h5>
                             <h6>Location</h6>
                             <li>
-                                <p>9,500 Acres of owned and titled land, located opposite Ambergris Cay 
-                                   
-                                    </p>
+                                <p>9,500 Acres of owned and titled land, located opposite Ambergris Cay
+
+                                </p>
                             </li>
                             <li>
                                 <p> 5 miles of oceanfront </p>
@@ -73,27 +84,27 @@
                             </li>
                             <li>
                                 <p><strong>
-                                    Net-Zero Achievement
+                                        Net-Zero Achievement
                                     </strong></p>
-                                    <p>
+                                <p>
                                     1,000 acres standing forest maintained.
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                1.5 million trees to be planted on 3,000 acres
+                                    1.5 million trees to be planted on 3,000 acres
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                600 acres of protected mangroves
-                            </p>
-                        </li>
-                        <li>
+                                    600 acres of protected mangroves
+                                </p>
+                            </li>
+                            <li>
                                 <p>
-                                300,000 + tons of CO2 absorbed
-                            </p>
-                        </li>
+                                    300,000 + tons of CO2 absorbed
+                                </p>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -143,7 +154,7 @@
 
                                             <ul>
                                                 <li>
-                                                    • 24 one-& two-bedroom homes on 9 acres private island @
+                                                    • 24 one-& two-bedroom homes on 9 acres private island
                                                 </li>
                                                 <li>
                                                     • Conrad Net Zero Institute
@@ -157,9 +168,7 @@
                                                     • Infrastructure
 
                                                 </li>
-                                                <li>
-                                                    • Fees/Permitting
-                                                </li>
+                                               
                                             </ul>
 
                                         </div>
@@ -210,7 +219,7 @@
                                                     • Marina #2
                                                 </li>
                                             </ul>
-                                           
+
 
                                         </div>
                                     </div>
@@ -233,7 +242,7 @@
                                             </ul>
 
 
-                                           
+
 
                                         </div>
                                     </div>
@@ -246,7 +255,7 @@
                                                     • ArtEco-Tech Village:645acreswith200Villasand200Condosforsale
                                                 </li>
                                             </ul>
-                                           
+
 
                                         </div>
                                     </div>
@@ -280,7 +289,7 @@
 
                             <ul>
                                 <h6>
-                                    PHASE 2
+                                    PHASE 3
                                 </h6>
                                 <li>• Art Eco-Tech Village:250 acres with 200 Villas and 200 Condos for sale <br></li>
                                 <li>• Marina #2</li>
@@ -293,7 +302,7 @@
 
                             <ul>
                                 <h6>
-                                    PHASE 3:
+                                    PHASE 4:
                                 </h6>
                                 <li>• 255 acres oceanfront parcel with 550 Villas</li>
                                 <li>• 305 rooms Hotel</li>
@@ -334,7 +343,7 @@
 
                     <div class="col-lg-5">
                         <div class="section-heading">
-                            <h6>| Balam Excape Resort & Residential Land Use Plan</h6>
+                            <h6>| Balam Reserve alternative land use plan </h6>
                             <small>(2,200 Acres Development / 7,300 Acres Natinal Reserve)</small>
                         </div>
                         <div class="accordion" id="accordionExample">
@@ -368,7 +377,7 @@
                                     <li>
                                         <span style="color: orange">B3</span>
                                         Waterfromt Residential (30 Acres)
-                                       
+
                                     </li>
                                     <li>
                                         <span style="color: orange">C</span>
@@ -380,7 +389,7 @@
                                     </li>
                                     <li>
                                         <span style="color: orange">D</span>
-                                        Approved 1,000 Acre subdivision 400 Residential lots / Commercial & Multifamily 
+                                        Approved 1,000 Acre subdivision 400 Residential lots / Commercial & Multifamily
                                     </li>
                                     <li>
                                         <span style="color: orange">D1</span>

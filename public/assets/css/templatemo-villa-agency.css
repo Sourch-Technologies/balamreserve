@@ -614,30 +614,34 @@ Featured Style
 ---------------------------------------------
 */
 
-.featured .left-image {
+
+.featured .left-image  {
+   width: 100%;
+   height: 600px;
+    background-image: url(../images/SubdivisionGreen.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
     position: relative;
+
 }
 
-.featured .left-image img {
-    padding-left: 55px;
-}
-
-.featured .left-image a {
-    display: inline-block;
-    width: 110px;
-    height: 110px;
-    line-height: 110px;
-    background-color: #f35525;
-    border-radius: 50%;
-    text-align: center;
+.featured #us{
+    /* top: -20px; */
+    z-index: 1;
+    width: 200px;
+    height: 200px;
+    bottom: 0px;
+    left: 90px;
+    right: 50px;
     position: absolute;
-    left: 0;
-    bottom: -55px;
+    /* left: 50%; */
+    
 }
+
 
 .featured .section-heading {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
     margin-bottom: 60px;
 }
 
@@ -705,9 +709,9 @@ Featured Style
   } */
 
 .featured .info-table img {
-    width: 200px;
-    border-radius: 10px;
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+    /* width: 200px; */
+    /* border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15); */
 }
 
 .featured .info-table ul li h4 {
@@ -732,16 +736,55 @@ Video Style
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    padding: 100px 0px 250px 0px;
+    padding: 100px 0px 100px 0px;
     position: relative;
 }
 
 .video-content {
+
     margin-top: -240px;
+
 }
 
-.video .section-heading h2 {
+.video img{
+
+    width: 200px;
+    height: 100px;
+
+}
+
+.video *{
+
+    margin-top: 20px;
+
+}
+
+
+.video h2 {
+
     color: #fff;
+
+}
+
+.video h1{
+
+    color: #fff;
+
+}
+
+.video p{
+
+    color: #ffeee9;
+}
+
+.video ul{
+
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    color: #ffeee9;
+
 }
 
 .video-content .video-frame {
@@ -1275,7 +1318,7 @@ Page Header Style
 */
 
 .sub {
-    background-image: url(../images/images-slider/6.jpg);
+    background-image: url(../images/images-slider/SubdivisionHeader.jpeg);
 }
 
 .con {
@@ -1288,7 +1331,7 @@ Page Header Style
 }
 
 .villa {
-    background-image: url(../images/hotel/hotel7.jpg);
+    background-image: url(../images/images-slider/VillaHeader.jpeg);
 }
 
 .belize{
@@ -1299,7 +1342,7 @@ Page Header Style
 
 .sustain{
 
-    background-image: url(../images/sus.png);
+    background-image: url(../images/images-slider/6.jpg);
 
 }
 
@@ -1659,6 +1702,138 @@ Contact Page Style
     font-size: 1rem;
 
 }
+
+.b-p{
+
+
+
+}
+
+.balam{
+
+    max-width: 400px;
+    padding: 30px 20px;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    background-color: rgba(73, 197, 56, 0.15) !important;
+    text-align: center;
+
+}
+
+.balam h2{
+
+    color: blue;
+
+}
+
+
+
+/* Team About */
+
+
+
+.img-sm {
+    width: 46px;
+    height: 46px;
+}
+
+.panel {
+    box-shadow: 0 2px 0 rgba(0,0,0,0.075);
+    border-radius: 0;
+    border: 0;
+    margin-bottom: 15px;
+}
+
+.panel .panel-footer, .panel>:last-child {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.panel .panel-heading, .panel>:first-child {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.panel-body {
+    padding: 25px 20px;
+}
+
+
+.media-block .media-left {
+    display: block;
+    float: left
+}
+
+.media-block .media-right {
+    float: right
+}
+
+.media-block .media-body {
+    display: block;
+    overflow: hidden;
+    width: auto
+}
+
+.middle .media-left,
+.middle .media-right,
+.middle .media-body {
+    vertical-align: middle
+}
+
+.thumbnail {
+    border-radius: 0;
+    border-color: #e9e9e9
+}
+
+.tag.tag-sm, .btn-group-sm>.tag {
+    padding: 5px 10px;
+}
+
+.tag:not(.label) {
+    background-color: #fff;
+    padding: 6px 12px;
+    border-radius: 2px;
+    border: 1px solid #cdd6e1;
+    font-size: 12px;
+    line-height: 1.42857;
+    vertical-align: middle;
+    -webkit-transition: all .15s;
+    transition: all .15s;
+}
+.text-muted, a.text-muted:hover, a.text-muted:focus {
+    color: #acacac;
+}
+.text-sm {
+    font-size: 0.9em;
+}
+.text-5x, .text-4x, .text-5x, .text-2x, .text-lg, .text-sm, .text-xs {
+    line-height: 1.25;
+}
+
+.btn-trans {
+    background-color: transparent;
+    border-color: transparent;
+    color: #929292;
+}
+
+.btn-icon {
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+.btn-sm, .btn-group-sm>.btn, .btn-icon.btn-sm {
+    padding: 5px 10px !important;
+}
+
+.mar-top {
+    margin-top: 15px;
+}
+
+/* Team About End */
+
 
 @media screen and (max-width: 767px) {
 

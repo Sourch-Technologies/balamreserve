@@ -20,22 +20,22 @@
                 </div>
 
                 <div class="col-md-4">
-                    <img class="img-fluid p-2" src="{{ asset('assets/images/hotel/v1.jpg') }}" alt="">
+                    <img class="img-fluid p-2" src="{{ asset('assets/images/hotel/V1.jpeg') }}" alt="">
                 </div>
 
                 <div class="col-md-4">
-                    <img class="img-fluid p-2" src="{{ asset('assets/images/hotel/v2.jpg') }}" alt="">
+                    <img class="img-fluid p-2" src="{{ asset('assets/images/hotel/V2.jpeg') }}" alt="">
                 </div>
 
                 <div class="col-md-4">
-                    <img class="img-fluid p-2" src="{{ asset('assets/images/hotel/hotel5.jpg') }}" alt="">
+                    <img class="img-fluid p-2" src="{{ asset('assets/images/hotel/3dV1.png') }}" alt="">
                 </div>
 
                 <div class="col-md-4">
-                    <img class="img-fluid p-2" src="{{ asset('assets/images/hotel/hotel6.jpg') }}" alt="">
+                    <img class="img-fluid p-2" src="{{ asset('assets/images/hotel/3dV2.jpg') }}" alt="">
                 </div>
 
-                <div class="col-md-4">
+                {{-- <div class="col-md-4">
                     <img class="img-fluid p-2" src="{{ asset('assets/images/hotel/hotel7.jpg') }}" alt="">
                 </div>
 
@@ -45,7 +45,7 @@
 
                 <div class="col-md-4">
                     <img class="img-fluid p-2" src="{{ asset('assets/images/hotel/hotel9.jpg') }}" alt="">
-                </div>
+                </div> --}}
 
             </div>
         </div>
