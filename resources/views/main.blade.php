@@ -90,7 +90,7 @@
                     
 
                         <img src="{{ asset('assets/images/PIc2.jpeg') }}" class="img" style="width: 100%; height: 600px;"    alt="" />
-                        <p>Inauguration of planting 1.5 Millions trees to maintain net zero </p>
+                        <h5 style="padding-top: 10px; padding-bottom: 10px">Inauguration of planting 1.5 Millions trees to maintain net zero </h5>
 
                   
                 </div>
