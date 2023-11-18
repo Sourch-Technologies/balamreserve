@@ -2,7 +2,7 @@
     <div class="container">
         <div class="footer-cta pt-5 pb-5">
             <div class="row">
-                <div class="col-xl-4 col-md-4 mb-30">
+                <div class="col-xl-4 col-md-4 mb-30 gap-2">
                     <div class="single-cta">
                         <i class="fas fa-map-marker-alt"></i>
                         <div class="cta-text">
@@ -42,7 +42,7 @@
                         <div class="footer-logo">
                             <a href="index.html">
                                 <img src="{{ asset('assets/images/Logo/logo.svg') }}" class="img-fluid" alt="logo"
-                                    style="width: 200px;">
+                                    style="width: 100%; height: 100px;">
                             </a>
                         </div>
 
@@ -61,25 +61,27 @@
                 </div>
                 {{-- <div class=" mb-50"> --}}
                 {{-- <div class="footer-widget"> --}}
-                <img class="col-xl-4 col-lg-4 col-md-6 " style="height: 100px"
+                <img class="col-xl-4 col-lg-4 col-md-6 " style="width: 250px; height: 100px;padding-top: 10px"
                     src="{{ asset('assets/images/Logo/varena_new.png') }}" alt="">
                 {{-- </div> --}}
                 {{-- </div> --}}
             </div>
         </div>
     </div>
-    <div class="copyright-area">
+    <div class="copyright-area bg-light">
         <div class="container">
             <div class="row">
                 <div class="col-lg-9">
-                    <div class="copyright-text">
+                    <div class="copyright-text" style="color: black !important">
                         <p>Copyright &copy; The Balam Reserve, All Right Reserved</p>
                     </div>
                 </div>
                 <div class="col d-flex justify-content-end col-lg-3">
 
-                    <img class=" text-right" style="width: 100px;" src="{{ asset('assets\images\Logo\sourch.png') }}"
-                        alt="">
+                    <a href="https://sourchtech.com">
+                        <img class=" text-right" style="width: 100px;"
+                            src="{{ asset('assets\images\Logo\sourch.png') }}" alt="">
+                    </a>
                 </div>
             </div>
         </div>
