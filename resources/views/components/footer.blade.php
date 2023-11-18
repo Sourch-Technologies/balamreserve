@@ -2,7 +2,7 @@
     <div class="container">
         <div class="footer-cta pt-5 pb-5">
             <div class="row">
-                <div class="col-xl-4 col-md-4 mb-30 gap-2">
+                <div class="col-xl-4 col-md-12 mb-30 gap-2"  style="font-size: 13px !important">
                     <div class="single-cta">
                         <i class="fas fa-map-marker-alt"></i>
                         <div class="cta-text">
@@ -14,7 +14,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-md-4 mb-30">
+                <div class="col-xl-4 col-md-12 mb-30">
                     <div class="single-cta">
                         <i class="fas fa-phone"></i>
                         <div class="cta-text">
@@ -24,8 +24,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-md-4 mb-30">
-                    <div class="single-cta">
+                <div class="col-xl-4 col-md-12 mb-30">
+                    <div class="single-cta" >
                         <i class="far fa-envelope-open"></i>
                         <div class="cta-text">
                             <h4>Mail us</h4>
