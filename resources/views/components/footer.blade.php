@@ -37,7 +37,7 @@
         </div>
         <div class="footer-content pt-5 pb-5">
             <div class="row">
-                <div class="col-xl-4 col-lg-4 mb-50">
+                <div class="col-xl-4 col-lg-4 col-md-12  mb-50">
                     <div class="footer-widget">
                         <div class="footer-logo">
                             <a href="index.html">
@@ -49,7 +49,7 @@
 
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+                <div class="col-xl-4 col-lg-4 col-md-12 mb-30">
                     <div class="footer-social-icon">
                         <span>Follow us</span>
                         <a href="https://www.facebook.com/thebalamescape/"><i
@@ -61,7 +61,7 @@
                 </div>
                 {{-- <div class=" mb-50"> --}}
                 {{-- <div class="footer-widget"> --}}
-                <img class="col-xl-4 col-lg-4 col-md-6 " style="width: 250px; height: 100px;padding-top: 10px"
+                <img class="col-xl-4 col-lg-4 col-md-12 " style="width: 250px; height: 100px;padding-top: 10px"
                     src="{{ asset('assets/images/Logo/varena_new.png') }}" alt="">
                 {{-- </div> --}}
                 {{-- </div> --}}
@@ -80,7 +80,7 @@
 
                     <a href="https://sourchtech.com">
                         <img class=" text-right" style="width: 100px;"
-                            src="{{ asset('assets\images\Logo\sourch.png') }}" alt="">
+                            src="{{ asset('assets/images/Logo/SourchTech.png') }}" alt="">
                     </a>
                 </div>
             </div>
