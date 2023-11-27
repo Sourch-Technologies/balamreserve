@@ -16,7 +16,7 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="section-heading">
-                        <h3>BELIZE BEYOND</h3>
+                        <h4>BELIZE BEYOND</h4>
                     </div>
                 </div>
                 <div class="col-lg-12">
@@ -83,7 +83,7 @@
                 <div class="col-lg-4">
                     <div class="section-heading">
 
-                        <h2>ABOUT THE PROJECT</h2>
+                        <h4>ABOUT THE PROJECT</h4>
                     </div>
                 </div>
                 <div class="col-lg-12">

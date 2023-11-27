@@ -2,13 +2,13 @@
     <div class="container">
         <div class="footer-cta pt-5 pb-5">
             <div class="row">
-                <div class="col-xl-4 col-md-12 mb-30 gap-2"  style="font-size: 13px !important">
+                <div class="col-xl-4 col-md-12 mb-30 gap-2" style="font-size: 13px !important">
                     <div class="single-cta">
                         <i class="fas fa-map-marker-alt"></i>
                         <div class="cta-text">
                             <h4>Find us</h4>
                             <span>Balam Investments, LLC.
-                                <br> 410 SE 16th Court #214
+                                <br> 410 SE 16th Court
                                 <br>
                                 Fort Lauderdale, FL 33316</span>
                         </div>
@@ -25,7 +25,7 @@
                     </div>
                 </div>
                 <div class="col-xl-4 col-md-12 mb-30">
-                    <div class="single-cta" >
+                    <div class="single-cta">
                         <i class="far fa-envelope-open"></i>
                         <div class="cta-text">
                             <h4>Mail us</h4>
@@ -37,6 +37,7 @@
         </div>
         <div class="footer-content pt-5 pb-5">
             <div class="row">
+
                 <div class="col-xl-4 col-lg-4 col-md-12  mb-50">
                     <div class="footer-widget">
                         <div class="footer-logo">
@@ -50,22 +51,29 @@
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-12 mb-30">
+
                     <div class="footer-social-icon">
+
                         <span>Follow us</span>
+
                         <a href="https://www.facebook.com/thebalamescape/"><i
                                 class="fab fa-facebook-f facebook-bg"></i></a>
                         <a href="https://www.linkedin.com/in/hart-porsch-24799630/"><i
                                 class="fab fa-linkedin linkedin-bg"></i></a>
                         <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
+                        
                     </div>
+
                 </div>
-                {{-- <div class=" mb-50"> --}}
-                {{-- <div class="footer-widget"> --}}
-                <img class="col-xl-4 col-lg-4 col-md-12 " style="width: 250px; height: 100px;padding-top: 10px"
-                    src="{{ asset('assets/images/Logo/varena_new.png') }}" alt="">
-                {{-- </div> --}}
-                {{-- </div> --}}
+
+                <a href="https://www.verenafoundation.org/" class="col-xl-4 col-lg-4 col-md-12">
+
+                    <img class=" " style="width: 250px; height: 100px;padding-top: 10px"
+                        src="{{ asset('assets/images/Logo/varena_new.png') }}" alt="">
+                </a>
+
             </div>
+
         </div>
     </div>
     <div class="copyright-area bg-light">

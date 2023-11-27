@@ -35,18 +35,14 @@
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px "  href="#">
-                                            <img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
+
                                         <div class="media-body">
                                             <div class="mar-btm">
-                                                <h6>Habitare.</h6>
-                                                {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>Real Estate Developer
-                                                {{-- </p> --}}
-                                                <a href="#"
-                                                    class="btn-link text-semibold media-heading box-inline">www.habitare.com.gt</a>
+                                                <h6>Bould ConsultingLTD
+                                                    .</h6>
+
+                                                <a href="http://www.bcl.ky"
+                                                    class="btn-link text-semibold media-heading box-inline">http://www.bcl.ky</a>
                                             </div>
 
                                         </div>
@@ -60,17 +56,22 @@
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
+
                                         <div class="media-body">
                                             <div class="mar-btm">
-                                                <h6>Martha Dimitratou</h6>
+                                                <h6>Kevin Murnane
+                                                </h6>
                                                 {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>Digital Director
+
+                                                Coats Investments Intl.
+
                                                 {{-- </p> --}}
-                                                <a href="#"
-                                                    class="btn-link text-semibold media-heading box-inline"></a>
+                                                <a href="http://www.Coats Investments Intl.
+                                                .com"
+                                                    class="btn-link text-semibold media-heading box-inline">http://www.Coats
+                                                    Investments Intl.
+                                                    .com
+                                                </a>
                                             </div>
 
                                         </div>
@@ -84,17 +85,19 @@
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
+
                                         <div class="media-body">
                                             <div class="mar-btm">
-                                                <h6>PWC Luxembourg</h6>
-                                                {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>
-                                                {{-- </p> --}}
-                                                <a href="#"
-                                                    class="btn-link text-semibold media-heading box-inline"></a>
+                                                <h6>
+                                                    Alejandra Dovali’
+                                                </h6>
+                                                Digital Director
+                                                <a href=" https://www.linkedin.com/in/alejandra-
+                                                dovali-6000a7231"
+                                                    class="btn-link text-semibold media-heading box-inline">
+                                                    https://www.linkedin.com/in/alejandra-
+                                                    dovali-6000a7231
+                                                </a>
                                             </div>
 
                                         </div>
@@ -108,17 +111,23 @@
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
+
                                         <div class="media-body">
                                             <div class="mar-btm">
-                                                <h6>Victor Barrett.</h6>
+                                                <h6>
+                                                    Swaback Partners
+
+                                                </h6>
                                                 {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>Consulting & Service Organization
+                                                Design and Landscape
+                                                Architecture
                                                 {{-- </p> --}}
-                                                <a href="#"
-                                                    class="btn-link text-semibold media-heading box-inline"></a>
+                                                <a href="
+                                                https://www.swaback.com
+
+                                                "
+                                                    class="btn-link text-semibold media-heading box-inline">
+                                                    https://www.swaback.com</a>
                                             </div>
 
                                         </div>
@@ -132,17 +141,17 @@
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
+
                                         <div class="media-body">
                                             <div class="mar-btm">
-                                                <h6>Bould Consulting Ltd.</h6>
+                                                <h6>CBRE Consulting
+                                                </h6>
                                                 {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>Real Estate Developer
+                                                Consulting Solutions
+
                                                 {{-- </p> --}}
-                                                <a href="#"
-                                                    class="btn-link text-semibold media-heading box-inline">www.bcly.ky</a>
+                                                <a href="https://www.cbre.com"
+                                                    class="btn-link text-semibold media-heading box-inline">https://www.cbre.com</a>
                                             </div>
 
                                         </div>
@@ -156,18 +165,18 @@
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px " 
-                                         href="#"><img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
+
                                         <div class="media-body">
                                             <div class="mar-btm">
-                                                <h6>CBRE Consulting.</h6>
+                                                <h6>Matthew Asinari
+                                                </h6>
                                                 {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>Consulting Solutions
+                                                Branding
+
                                                 {{-- </p> --}}
-                                                <a href="#"
-                                                    class="btn-link text-semibold media-heading box-inline">www.cbre.com</a>
+                                                <a href="http://www.habitat2art.com"
+                                                    class="btn-link text-semibold media-heading box-inline">
+                                                    http://www.habitat2art.com</a>
                                             </div>
 
                                         </div>
@@ -181,17 +190,16 @@
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
+
                                         <div class="media-body">
                                             <div class="mar-btm">
-                                                <h6>EDSA.</h6>
+                                                <h6>Prime Square
+                                                </h6>
                                                 {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>Land Planing
+
                                                 {{-- </p> --}}
-                                                <a href="#"
-                                                    class="btn-link text-semibold media-heading box-inline">www.edsaplan.com</a>
+                                                <a href="https://www.minettprimesquare.com"
+                                                    class="btn-link text-semibold media-heading box-inline">https://www.minettprimesquare.com</a>
                                             </div>
 
                                         </div>
@@ -205,17 +213,19 @@
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
+
                                         <div class="media-body">
                                             <div class="mar-btm">
-                                                <h6>HVS.</h6>
+                                                <h6>Nancy Conrad Net Zero
+
+                                                </h6>
                                                 {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>Consulting & Service Organization
+                                                Institute
+                                                <br>
                                                 {{-- </p> --}}
-                                                <a href="#"
-                                                    class="btn-link text-semibold media-heading box-inline">www.hvs.com</a>
+                                                <a href=" linkedin.com/in/nancy-conrad-7226324"
+                                                    class="btn-link text-semibold media-heading box-inline">
+                                                    linkedin.com/in/nancy-conrad-7226324</a>
                                             </div>
 
                                         </div>
@@ -229,17 +239,19 @@
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
+
                                         <div class="media-body">
                                             <div class="mar-btm">
-                                                <h6>Prime Square.</h6>
+                                                <h6>
+                                                    Dr. Stefan Harzen
+                                                </h6>
                                                 {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>
+                                                Biologist
+                                                <br>
+
                                                 {{-- </p> --}}
-                                                <a href="#"
-                                                    class="btn-link text-semibold media-heading box-inline">www.minettprimesquare.com</a>
+                                                <a href="linkedin.com/in/drstefanharzen"
+                                                    class="btn-link text-semibold media-heading box-inline">linkedin.com/in/drstefanharzen</a>
                                             </div>
 
                                         </div>
@@ -253,17 +265,24 @@
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
+
                                         <div class="media-body">
                                             <div class="mar-btm">
-                                                <h6>Swaback Partners.</h6>
+                                                <h6>
+                                                    HVS
+
+                                                </h6>
                                                 {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>Design and Landscape architecture
+                                                Consulting and Services
+
+                                                Organization
+
+                                                <br>
+
                                                 {{-- </p> --}}
-                                                <a href="#"
-                                                    class="btn-link text-semibold media-heading box-inline">www.swaback.com</a>
+                                                <a href="https://www.hvs.com"
+                                                    class="btn-link text-semibold media-heading box-inline">
+                                                    https://www.hvs.com</a>
                                             </div>
 
                                         </div>
@@ -277,14 +296,12 @@
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
+
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>Dr. Stefan Harzen.</h6>
                                                 {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>Biologist
+                                                <i class="fa fa-mobile fa-lg"></i>Biologist
                                                 {{-- </p> --}}
                                                 <a href="#"
                                                     class="btn-link text-semibold media-heading box-inline"></a>
@@ -301,17 +318,21 @@
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
+
                                         <div class="media-body">
                                             <div class="mar-btm">
-                                                <h6>Elizabeth Ayafor.</h6>
-                                                {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>Marketing Director
-                                                {{-- </p> --}}
-                                                <a href="#"
-                                                    class="btn-link text-semibold media-heading box-inline"></a>
+                                                <h6>
+                                                    Victor Barret
+
+
+
+                                                </h6>
+                                                Consulting and Services
+                                                Organization
+                                                <br>
+
+                                                <a
+                                                    href="linkedin.com/in/victor-barrett-559b7ba">linkedin.com/in/victor-barrett-559b7ba</a>
                                             </div>
 
                                         </div>
@@ -325,17 +346,20 @@
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
+
                                         <div class="media-body">
                                             <div class="mar-btm">
-                                                <h6>Elizabeth Ayafor.</h6>
+                                                <h6>
+                                                    EDSA
+
+                                                </h6>
                                                 {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>Marketing Director
+                                                Land Planning
+                                                <br>
+
                                                 {{-- </p> --}}
-                                                <a href="#"
-                                                    class="btn-link text-semibold media-heading box-inline"></a>
+                                                <a href="https://www.edsaplan.co"
+                                                    class="btn-link text-semibold media-heading box-inline">https://www.edsaplan.co</a>
                                             </div>
 
                                         </div>
@@ -349,17 +373,12 @@
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
+                                        
                                         <div class="media-body">
                                             <div class="mar-btm">
                                                 <h6>John Barnes</h6>
-                                                {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>Board Of Directors
-                                                {{-- </p> --}}
-                                                <a href="#"
-                                                    class="btn-link text-semibold media-heading box-inline"></a>
+                                                <i class="fa fa-mobile fa-lg"></i>Board Of Directors
+                                               
                                             </div>
 
                                         </div>
@@ -373,17 +392,21 @@
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
+                                        
                                         <div class="media-body">
                                             <div class="mar-btm">
-                                                <h6>Professor Will Holder</h6>
-                                                {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>Board Of Directors
-                                                {{-- </p> --}}
-                                                <a href="#"
-                                                    class="btn-link text-semibold media-heading box-inline"></a>
+                                                <h6>
+                                                    PWC Luxembourg
+
+                                                </h6>
+                                                Green Bonds
+                                               
+                                                <a href="
+                                                https://www.pwc.lu/en
+                                                "
+                                                    class="btn-link text-semibold media-heading box-inline">
+                                                    https://www.pwc.lu/en
+                                                </a>
                                             </div>
 
                                         </div>
@@ -397,17 +420,21 @@
                                     <!-- Newsfeed Content -->
                                     <!--===================================================-->
                                     <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
+                                      
                                         <div class="media-body">
                                             <div class="mar-btm">
-                                                <h6>Government Of Belize</h6>
-                                                {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg" style="font-size: 10px"></i >Favorable development incentives
-                                                {{-- </p> --}}
-                                                <a href="#"
-                                                    class="btn-link text-semibold media-heading box-inline"></a>
+                                                <h6>
+                                                    Young Engineering
+
+                                                </h6>
+                                                Consultancy
+                                                <br>
+                                                <a href="
+                                                https://www.yecbelize.com
+                                                "
+                                                    class="btn-link text-semibold media-heading box-inline">
+                                                    https://www.yecbelize.com
+                                                </a>
                                             </div>
 
                                         </div>
@@ -416,31 +443,7 @@
                                     <!-- End Newsfeed Content -->
                                 </div>
                             </div>
-                            <div class="panel col-md-3 ">
-                                <div class="panel-body">
-                                    <!-- Newsfeed Content -->
-                                    <!--===================================================-->
-                                    <div class="media-block">
-                                        <a class="media-left" style="margin-right: 10px "  href="#"><img class="img-circle img-sm"
-                                                alt="Profile Picture"
-                                                src="{{ asset('assets/images/leave.png') }}"></a>
-                                        <div class="media-body">
-                                            <div class="mar-btm">
-                                                <h6>Young's Engineering Consultancy</h6>
-                                                {{-- <p class="text-muted text-sm"> --}}
-                                                    <i class="fa fa-mobile fa-lg"></i>
-                                                {{-- </p> --}}
-                                                <a href="#"
-                                                    class="btn-link text-semibold media-heading box-inline">www.yecbelize.com</a>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                    <!--===================================================-->
-                                    <!-- End Newsfeed Content -->
-                                </div>
-                            </div>
-
+                         
 
 
                         </div>

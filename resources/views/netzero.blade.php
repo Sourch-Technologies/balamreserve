@@ -1,6 +1,6 @@
 <x-layout>
 
-    <div class="row">
+    <div class="row m-2">
         <div class="col-lg-12">
             <div class="info-table text-center pt-5"
                 style="border: 1px solid gray; margin-top:10px; padding: 100px 10px; border-radius: 5px">
@@ -168,7 +168,7 @@
                                                     • Infrastructure
 
                                                 </li>
-                                               
+
                                             </ul>
 
                                         </div>
@@ -283,9 +283,8 @@
                     <div class="section-heading">
                         <h6>| PROJECT ROADMAP</h6>
                     </div>
-                    <div class="accordion" id="accordionExample">
+                    <div class="accordion p-2" id="accordionExample">
                         <div class="accordion-item" style="padding: 10px; ">
-
 
                             <ul>
                                 <h6>
@@ -297,8 +296,13 @@
                                 <li></li>
                             </ul>
                         </div>
-                        <div class="accordion-item" style="padding: 10px; ">
 
+                    </div>
+
+
+                    <div class="accordion p-2" id="accordionExample">
+
+                        <div class="accordion-item" style="padding: 10px; ">
 
                             <ul>
                                 <h6>
@@ -312,7 +316,6 @@
 
                         </div>
                     </div>
-
                 </div>
 
                 <div class="col-lg-7">

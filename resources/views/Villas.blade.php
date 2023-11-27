@@ -19,12 +19,12 @@
                     </h3>
                 </div>
 
-                <div class="col-12">
-                    <img class="img-fluid p-2" style="width: 100%; height: 700px;"    src="{{ asset('assets/images/hotel/V1.jpeg') }}" alt="">
+                <div class="col-md-6">
+                    <img class="img-fluid p-2" style="width: 100%; height: 500px;"    src="{{ asset('assets/images/hotel/V1.jpeg') }}" alt="">
                 </div>
 
-                <div class="col-12">
-                    <img class="img-fluid p-2" style="width: 100%; height: 700px;"  src="{{ asset('assets/images/hotel/V2.jpeg') }}" alt="">
+                <div class="col-md-6">
+                    <img class="img-fluid p-2" style="width: 100%; height: 500px;"  src="{{ asset('assets/images/hotel/V2.jpeg') }}" alt="">
                 </div>
 
             

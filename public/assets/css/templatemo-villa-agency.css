@@ -643,7 +643,7 @@ Featured Style
 .featured .section-heading {
     margin-left: 5px;
     margin-right: 5px;
-    margin-bottom: 60px;
+    margin-bottom: 20px;
 }
 
 .featured .section-heading h2 {
@@ -655,9 +655,10 @@ Featured Style
     margin-right: 10px;
     --bs-accordion-border-radius: 10px;
     --bs-accordion-inner-border-radius: 10px;
-    --bs-accordion-bg: #fafafa;
+    --bs-accordion-bg: rgba(0,0,0,.1);
     --bs-accordion-border-color: none;
     border: none !important;
+    /* border: 1px solid red !important; */
 }
 
 .featured .accordion-header {
@@ -1502,6 +1503,7 @@ Single Page Style
     margin-top: 60px;
     margin-left: 0px;
     margin-right: 0px;
+    
     --bs-accordion-border-radius: 10px;
     --bs-accordion-inner-border-radius: 10px;
     --bs-accordion-bg: #fafafa;

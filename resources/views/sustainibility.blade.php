@@ -17,7 +17,7 @@
                         <div class="row">
                             <div class="col-lg-11 mx-auto">
                                 <div class="section-heading">
-                                    <h6>Highlights About Our Solutions</h6>
+                                    <h4>Highlights About Our Solutions</h4>
                                 </div>
                                 <div class="nav-wrapper ">
                                     <ul class="nav nav-tabs" role="tablist">
@@ -217,12 +217,12 @@
                 </div>
             </div>
         </div>
-        <div class="container-fluid">
+        <div class="container-fluid pt-4">
             <div class="row">
                 <div class="col-lg-4">
                     <div class="section-heading">
 
-                        <h2>CREATING BEYOND</h2>
+                        <h4>CREATING BEYOND</h4>
                     </div>
                 </div>
                 <div class="col-lg-12">

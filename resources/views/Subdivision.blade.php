@@ -95,13 +95,11 @@
 
 
 
-    <div class="container-fluid">
-        <div class="row">
-            <img src="{{ asset('assets/images/EscapeMasterPlan.png') }}" width="100%" class="img-fluid"
+    <div class="container-fluid pt-5">
+      
+            <img src="{{ asset('assets/images/EscapeMasterPlan.png') }}" style="width: 100%; height: 500px;" class="img-fluid"
                 alt="">
-
-        </div>
-
+       
 
     </div>
 
@@ -214,7 +212,7 @@
 
     <div class="container-fluid">
         <div class="row">
-            <img src="{{ asset('assets/images/NorthernWaterFront.png') }}" width="100%" class="img-fluid"
+            <img src="{{ asset('assets/images/NorthernWaterFront.png') }}" style="width: 100% ; height: 500px;" class="img-fluid"
                 alt="">
 
         </div>
@@ -224,7 +222,7 @@
 
     <div class="container-fluid" style="padding-top: 100px">
         <div class="row">
-            <img src="{{ asset('assets/images/BalamMapSubdivision.png') }}" height="600px" alt="">
+            <img src="{{ asset('assets/images/BalamMapSubdivision.png') }}" height="500px" alt="">
         </div>
     </div>
 
