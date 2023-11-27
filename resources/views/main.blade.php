@@ -30,7 +30,7 @@
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
 
-                                    The <strong>planet is on fire</strong> and the consequences are on us.
+                                    The <strong>Planet is on fire</strong> and the consequences are on us.
                                 </div>
                             </div>
                         </div>
@@ -108,35 +108,13 @@
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
 
-                                    The <strong>planet is on fire</strong> and the consequences are on us.
+                                    Inauguration of planting 1.5 Millions trees
+                                    to maintain net zero
                                 </div>
                             </div>
                         </div>
-                        <div class="accordion-item">
 
-                            <h2 class="accordion-header" id="headingTwo">
 
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    NO PLANET, NO PEOPLE, NO PROFIT
-                                </button>
-
-                            </h2>
-
-                        </div>
-                        <div class="accordion-item">
-
-                            <h2 class="accordion-header" id="headingThree">
-
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Let's put, our mind together and create a net zero world where our children can live
-                                    sustainably.
-                                </button>
-
-                            </h2>
-
-                        </div>
                     </div>
                 </div>
 
@@ -240,7 +218,7 @@
                                                 <li>
                                                     B1.
                                                     <span>
-                                                        
+
                                                     </span>
                                                 </li>
                                                 <li>
