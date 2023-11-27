@@ -30,6 +30,7 @@ Route::view('/Villas', 'Villas')->name('villas');
 Route::view('/whybelize', 'whybelize')->name('whybelize');
 Route::view('/sustainibility', 'sustainibility')->name('sustainibility');
 Route::view('/location', 'location')->name('location');
+Route::view('/news', 'news')->name('news');
 Route::post('/contact-us', [Controller::class, 'index'])->name('contact-us');
 
 

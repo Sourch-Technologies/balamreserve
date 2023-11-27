@@ -55,7 +55,7 @@
                     <a class="nav-link mx-2" href="{{ route('about') }}">About Us</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link mx-2" href="">News</a>
+                    <a class="nav-link mx-2" href="{{ route('news') }}">News</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link mx-2" href="{{ route('contact') }} ">Contact Us</a>

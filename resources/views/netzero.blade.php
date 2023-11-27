@@ -138,12 +138,17 @@
                                         <li class="nav-item" role="presentation">
                                             <button class="nav-link" id="penthouse-tab" data-bs-toggle="tab"
                                                 data-bs-target="#penthouse" type="button" role="tab"
-                                                aria-controls="penthouse" aria-selected="false">Phase3 -L/F</button>
+                                                aria-controls="penthouse" aria-selected="false">Phase3</button>
                                         </li>
                                         <li class="nav-item" role="presentation">
                                             <button class="nav-link" id="phase4-tab" data-bs-toggle="tab"
                                                 data-bs-target="#phase4" type="button" role="tab"
-                                                aria-controls="phase4" aria-selected="false">Phase 4: D</button>
+                                                aria-controls="phase4" aria-selected="false">Phase 4</button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                            <button class="nav-link" id="phase5-tab" data-bs-toggle="tab"
+                                                data-bs-target="#phase5" type="button" role="tab"
+                                                aria-controls="phase5" aria-selected="false">Alternative Plan</button>
                                         </li>
                                     </ul>
                                 </div>
@@ -252,9 +257,72 @@
 
                                             <ul>
                                                 <li>
-                                                    • ArtEco-Tech Village:645acreswith200Villasand200Condosforsale
+                                                    • ArtEco-Tech Village
                                                 </li>
+                                                 <li>
+                                                    • 645 acres with 200 Villas &
+                                                </li>
+                                                  • 200 Condos for sale
                                             </ul>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="phase5" role="tabpanel"
+                                        aria-labelledby="phase5-tab">
+                                        <div class="row">
+
+                                            <ul>
+                                    <li>
+                                         <small>(2,200 Acres Development / 7,300 Acres Natinal Reserve)</small><br>
+                                        <span style="color: orange">A</span>
+                                        Island Village (8 Acres)
+                                    </li>
+                                    <li>
+                                        <span style="color: orange">A1</span>
+                                        Marina Village (15 Acres)
+                                    </li>
+                                    <li>
+                                        <span style="color: orange">A2</span>
+                                        WaterFront Residential (30 Acres)
+                                    </li>
+                                    <li>
+                                        <span style="color: orange">A3</span>
+                                        WaterPark & Lagoon Villas (15 Acres)
+                                    </li>
+                                    <li>
+                                        <span style="color: orange">B1</span>
+                                        Resort Site (60 Acres)
+                                    </li>
+                                    <li>
+                                        <span style="color: orange">B2</span>
+                                        Resort Site (300 Acres)
+                                    </li>
+                                    <li>
+                                        <span style="color: orange">B3</span>
+                                        Waterfromt Residential (30 Acres)
+
+                                    </li>
+                                    <li>
+                                        <span style="color: orange">C</span>
+                                        Waterfromt Residential (33 Acres)
+                                    </li>
+                                    <li>
+                                        <span style="color: orange">C1</span>
+                                        Resort Site (32 Acres)
+                                    </li>
+                                    <li>
+                                        <span style="color: orange">D</span>
+                                        Approved 1,000 Acre subdivision 400 Residential lots / Commercial & Multifamily
+                                    </li>
+                                    <li>
+                                        <span style="color: orange">D1</span>
+                                        Resort Site (32 Acres)
+                                    </li>
+                                    <li>
+                                        <span style="color: orange">L/F</span>
+                                        Lagoon Mixed Use Development (645 Acres): Golf Course
+                                    </li>
+                                </ul>
+
 
 
                                         </div>
@@ -271,6 +339,51 @@
     </div>
 
 
+ <div class="featured section">
+            <div class="container-fluid">
+                <div class="row">
+
+                    <div class="col-lg-9">
+                        <div class="info-table">
+
+                            <img src="{{ asset('assets/images/newimage.jpg') }}" style="width: 100%; height: 400px;"
+                                alt="" />
+
+
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3">
+                        <div class="section-heading">
+                            <h6>|Project Road Map</h6>
+
+                        </div>
+                        <div class="accordion" id="accordionExample">
+                            <div class="accordion-item" style="padding: 10px; ">
+
+                                <ul>
+                                    <li>
+                                         <h5>Phase 3</h5>
+                                        • Art Eco-Tech Village
+                                    </li><br>
+                                    <li>• 250 acres with 200 Villas & </li><br>
+                                    <li>• 200 Condos for sale</li><br>
+                                    <li>
+
+                                        • Marina #2
+                                    </li><br>
+                                    <li>
+
+                                        • Solar Park 20-100 m/W
+                                    </li>
+                                </ul>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
 
 
     <div class="featured section">
@@ -279,25 +392,11 @@
 
 
 
-                <div class="col-lg-5">
+                <div class="col-lg-3">
                     <div class="section-heading">
                         <h6>| PROJECT ROADMAP</h6>
                     </div>
-                    <div class="accordion p-2" id="accordionExample">
-                        <div class="accordion-item" style="padding: 10px; ">
 
-                            <ul>
-                                <h6>
-                                    PHASE 3
-                                </h6>
-                                <li>• Art Eco-Tech Village:250 acres with 200 Villas and 200 Condos for sale <br></li>
-                                <li>• Marina #2</li>
-                                <li>• Solar Park 20-100 m/W</li>
-                                <li></li>
-                            </ul>
-                        </div>
-
-                    </div>
 
 
                     <div class="accordion p-2" id="accordionExample">
@@ -308,9 +407,9 @@
                                 <h6>
                                     PHASE 4:
                                 </h6>
-                                <li>• 255 acres oceanfront parcel with 550 Villas</li>
-                                <li>• 305 rooms Hotel</li>
-                                <li>• Solar Park 20-100 m/W</li>
+                                <li>• 255 acres oceanfront parcel with 550 Villas</li><br>
+                                <li>• 305 rooms Hotel</li><br>
+                                <li>• Solar Park 20-100 m/W</li><br>
                                 <li>• Golf Course</li>
                             </ul>
 
@@ -318,7 +417,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-7">
+                <div class="col-lg-9">
                     <div class="info-table">
 
                         <img src="{{ asset('assets/images/image12.png') }}" style="width: 100%; height: 400px;"
@@ -328,6 +427,7 @@
                 </div>
             </div>
         </div>
+
 
 
         <div class="featured section">
@@ -347,13 +447,14 @@
                     <div class="col-lg-5">
                         <div class="section-heading">
                             <h6>| Balam Reserve alternative land use plan </h6>
-                            <small>(2,200 Acres Development / 7,300 Acres Natinal Reserve)</small>
+
                         </div>
                         <div class="accordion" id="accordionExample">
                             <div class="accordion-item" style="padding: 10px; ">
 
                                 <ul>
                                     <li>
+                                         <small>(2,200 Acres Development / 7,300 Acres Natinal Reserve)</small><br>
                                         <span style="color: orange">A</span>
                                         Island Village (8 Acres)
                                     </li>
