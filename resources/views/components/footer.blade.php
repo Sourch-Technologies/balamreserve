@@ -56,12 +56,17 @@
 
                         <span>Follow us</span>
 
-                        <a href="https://www.facebook.com/thebalamescape/"><i
-                                class="fab fa-facebook-f facebook-bg"></i></a>
-                        <a href="https://www.linkedin.com/in/hart-porsch-24799630/"><i
-                                class="fab fa-linkedin linkedin-bg"></i></a>
-                        <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
-                        
+                        <a href="https://www.facebook.com/thebalamescape/">
+                            <i class="fab fa-facebook-f facebook-bg"></i>
+                        </a>
+
+                        <a href="https://www.linkedin.com/in/hart-porsch-24799630/">
+                            <i  class="fab fa-linkedin linkedin-bg"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fab fa-google-plus-g google-bg"></i>
+                        </a>
+
                     </div>
 
                 </div>
