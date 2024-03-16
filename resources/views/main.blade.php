@@ -11,7 +11,6 @@
                     <h2><br /></h2>
                 </div>
             </div>
-
         </div>
     </div>
 
@@ -194,11 +193,9 @@
                     <div class="col-lg-12">
                         <div class="tabs-content">
                             <div class="row">
-
-
                                 <div class="row">
                                     <div class="col-lg-9">
-                                        <img class="col-lg-12" src="{{ asset('assets/images/MasterPicPlan.jpeg') }}"
+                                        <img class="col-lg-12" style="width:100%; padding:0px;" src="{{ asset('assets/images/MasterPicPlan.jpeg') }}"
                                             alt="">
                                     </div>
 

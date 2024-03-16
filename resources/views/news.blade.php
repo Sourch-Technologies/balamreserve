@@ -1,5 +1,11 @@
 <x-layout>
 
+    <style>
+        .ol ,ul{
+            padding: 1px !important;
+        }
+    </style>
+
     <div class="row m-2">
         <div class="col-lg-12">
             <div class="info-table text-center pt-5"

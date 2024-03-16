@@ -1,4 +1,7 @@
+
 <x-layout>
+
+   
 
     <div class="page-heading header-text villa">
         <div class="container">
@@ -20,11 +23,11 @@
                 </div>
 
                 <div class="col-md-6">
-                    <img class="img-fluid p-2" style="width: 100%; height: 500px;"    src="{{ asset('assets/images/hotel/V1.jpeg') }}" alt="">
+                    <img class="img-fluid p-2 resimage"  src="{{ asset('assets/images/hotel/V1.jpeg') }}" alt="">
                 </div>
 
                 <div class="col-md-6">
-                    <img class="img-fluid p-2" style="width: 100%; height: 500px;"  src="{{ asset('assets/images/hotel/V2.jpeg') }}" alt="">
+                    <img class="img-fluid p-2 resimage"  src="{{ asset('assets/images/hotel/V2.jpeg') }}" alt="">
                 </div>
 
             

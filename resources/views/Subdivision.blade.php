@@ -1,9 +1,11 @@
 <x-layout>
 
 
-
-
-
+    <style>
+        .ol ,ul{
+            padding: 1px !important;
+        }
+    </style>
 
     <div class="page-heading header-text sub">
         <div class="container">
@@ -97,7 +99,7 @@
 
     <div class="container-fluid pt-5">
       
-            <img src="{{ asset('assets/images/EscapeMasterPlan.png') }}" style="width: 100%; height: 500px;" class="img-fluid"
+            <img class="resimage" src="{{ asset('assets/images/EscapeMasterPlan.png') }}" style="width: 100%; height: 500px;" class="img-fluid"
                 alt="">
        
 
@@ -116,6 +118,7 @@
                     <div id="map">
 
                         <img src="{{ asset('assets/images/leave.jpeg') }}"
+                        class="resimage"
                             style="
                             width: 100%;
                             height: 500px;
@@ -128,7 +131,7 @@
                 </div>
                 <div class="col-lg-5">
                     <div>
-                        <ul>
+                        <ul style="padding: 1px !important">
                             <li>
                                 <small>
 
@@ -194,6 +197,7 @@
                     <div id="map">
 
                         <img src="{{ asset('assets/images/leave.jpeg') }}"
+                        class="resimage"
                             style="
                             width: 100%;
                             height: 300px;
@@ -212,7 +216,7 @@
 
     <div class="container-fluid">
         <div class="row">
-            <img src="{{ asset('assets/images/NorthernWaterFront.png') }}" style="width: 100% ; height: 500px;" class="img-fluid"
+            <img class="resimage" src="{{ asset('assets/images/NorthernWaterFront.png') }}" style="width: 100% ; height: 500px;" class="img-fluid"
                 alt="">
 
         </div>
@@ -222,7 +226,7 @@
 
     <div class="container-fluid" style="padding-top: 100px">
         <div class="row">
-            <img src="{{ asset('assets/images/BalamMapSubdivision.png') }}" height="500px" alt="">
+            <img class="resimage" src="{{ asset('assets/images/BalamMapSubdivision.png') }}" height="500px" alt="">
         </div>
     </div>
 

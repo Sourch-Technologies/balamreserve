@@ -3,11 +3,10 @@
     <div class="row m-2">
         <div class="col-lg-12">
             <div class="info-table text-center pt-5"
-                style="border: 1px solid gray; margin-top:10px; padding: 100px 10px; border-radius: 5px">
+                style="border:1px solid gray; margin-top:10px; padding: 100px 10px; border-radius:5px">
                 <ul>
                     <h5>
                         <strong>
-
                             The Sustainable Net-Zero Community for the Next Century
                         </strong>
                     </h5>
